@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/stackfinance_taskone/precache-manifest.744fdb354bd9c59aa75ea4ad91530179.js"
+  "/stackfinance_taskone/precache-manifest.3b0a3cd15ebc7c3c048062162d220526.js"
 );
 
 self.addEventListener('message', (event) => {
