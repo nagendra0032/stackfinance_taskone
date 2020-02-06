@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stackfinance_taskone/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/stackfinance_taskone/static/js/main.ec83d9ca.chunk.js",
+    "main.js.map": "/stackfinance_taskone/static/js/main.ec83d9ca.chunk.js.map",
+    "runtime-main.js": "/stackfinance_taskone/static/js/runtime-main.994723d0.js",
+    "runtime-main.js.map": "/stackfinance_taskone/static/js/runtime-main.994723d0.js.map",
+    "static/js/2.8efc4081.chunk.js": "/stackfinance_taskone/static/js/2.8efc4081.chunk.js",
+    "static/js/2.8efc4081.chunk.js.map": "/stackfinance_taskone/static/js/2.8efc4081.chunk.js.map",
+    "index.html": "/stackfinance_taskone/index.html",
+    "precache-manifest.744fdb354bd9c59aa75ea4ad91530179.js": "/stackfinance_taskone/precache-manifest.744fdb354bd9c59aa75ea4ad91530179.js",
+    "service-worker.js": "/stackfinance_taskone/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/stackfinance_taskone/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8efc4081.chunk.js.LICENSE.txt": "/stackfinance_taskone/static/js/2.8efc4081.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994723d0.js",
+    "static/js/2.8efc4081.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ec83d9ca.chunk.js"
+  ]
+}
